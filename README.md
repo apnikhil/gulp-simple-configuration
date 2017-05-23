@@ -1,4 +1,4 @@
-#Gulp simple configuration
+##Gulp simple configuration
 
 A simple gulp configuration which combines multiple scripts and styles into one file.
  This setup is based on file order (to avoid conflicts when combining and compressing).
